@@ -1,21 +1,21 @@
 {
-  "name": "goit-project-crazy_developers",
+  "name": "project-crazy_developers",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://EITalanova.github.io/goit-project-crazy_developers",
+  "homepage": "https://EITalanova.github.io/project-crazy_developers",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /goit-project-crazy_developers/"
+    "build": "parcel build src/*.html --public-url /project-crazy_developers/"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/EITalanova/goit-project-crazy_developers.git"
+    "url": "git+https://github.com/EITalanova/project-crazy_developers.git"
   },
   "keywords": [],
   "author": "Alexander Repeta <alexander.repeta@gmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/EITalanova/goit-project-crazy_developers/issues"
+    "url": "https://github.com/EITalanova/project-crazy_developers/issues"
   },
   "dependencies": {
     "modern-normalize": "^1.1.0"
